@@ -1,0 +1,4 @@
+.container {
+  width: 1024px; /* set the width of your container */
+  margin: 20px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
